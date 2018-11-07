@@ -11,4 +11,4 @@ create table burgers
     devoured boolean,
     primary key
     (id)
-)
+);
